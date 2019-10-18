@@ -1,0 +1,16 @@
+[
+  {
+    "type": "recipe",
+    "result": "shillelagh",
+    "category": "CC_WEAPON",
+    "subcategory": "CSC_WEAPON_BASHING",
+    "skill_used": "fabrication",
+    "skills_required": [ "survival", 2 ],
+    "difficulty": 3,
+    "time": "360 m",
+    "autolearn": true,
+    "qualities": [ { "id": "SAW_W", "level": 1 }, { "id": "CUT", "level": 1 } ],
+    "tools": [ [ [ "char_smoker", 100 ] ] ],
+    "components": [ [ [ "log", 1 ] ], [ [ "butter", 30 ], [ "lard", 4 ], [ "tallow", 2 ], [ "tallow_tainted", 2 ] ] ]
+  }
+]

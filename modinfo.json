@@ -1,0 +1,12 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "cgpersonal",
+    "name": "CGPersonal",
+    "authors": [ "Closet_Goth" ],
+    "maintainers": [ "Closet_Goth" ],
+    "description": "Personal rebalance changes by Closet_Goth.",
+    "category": "rebalance",
+    "dependencies": [ "dda" ]
+  }
+]

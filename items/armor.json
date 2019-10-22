@@ -2,7 +2,18 @@
   {
     "id": "tinfoil_hat_fitting",
     "type": "ARMOR",
-    "copy_from": "tinfoil_hat",
-    "looks_like": "helmet_liner"
+    "category": "armor",
+    "looks_like": "helmet_liner",
+    "name": "tinfoil hat",
+    "description": "A sheet of aluminum foil that has been molded into a form-fitting hat.  Perfect for protecting yourself from the government, Illuminati, aliens, and THEM.",
+    "weight": "16 g",
+    "volume": "250 ml",
+    "price": 16,
+    "material": [ "aluminum" ],
+    "symbol": "[",
+    "color": "yellow",
+    "covers": [ "HEAD" ],
+    "coverage": 90,
+    "flags": [ "PSYSHIELD_PARTIAL", "SKINTIGHT", "TRADER_AVOID" ]
   }
 ]

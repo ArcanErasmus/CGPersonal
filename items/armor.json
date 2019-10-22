@@ -1,0 +1,8 @@
+[
+  {
+    "id": "tinfoil_hat_fitting",
+    "type": "ARMOR",
+    "copy_from": "tinfoil_hat",
+    "looks_like": "helmet_liner"
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "result": "tinfoil_hat_fitting",
+    "type": "recipe",
+    "category": "CC_ARMOR",
+    "subcategory": "CSC_ARMOR_HEAD",
+    "skill_used": "tailor",
+    "time": "1 s",
+    "autolearn": true,
+    "tools": [  ],
+    "components": [ [ [ "tinfoil_hat", 1 ] ] ]
+  }
+]

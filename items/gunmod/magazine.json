@@ -2,7 +2,7 @@
   {
     "id": "beltfeed_ar15",
     "type": "GUNMOD",
-    "name": "M16 belt feed adapter",
+    "name": "AR-15 belt feed adapter",
     "description": "A kit providing the necessary parts for a drop-in conversion of an AR-15 assembly from magazine to belt-feed. **Removal while loaded might cause a crash or something!**",
     "weight": "950 g",
     "volume": "750 ml",

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "beltfeed_ar15",
+    "type": "GUNMOD",
+    "name": "M16 belt feed adapter",
+    "description": "A kit providing the necessary parts for a drop-in conversion of an AR-15 assembly from magazine to belt-feed. **Removal while loaded might cause a crash or something!**",
+    "weight": "950 g",
+    "volume": "750 ml",
+    "integral_volume": "250 ml",
+    "price": 32000,
+    "material": "steel",
+    "symbol": ":",
+    "color": "green",
+    "location": "magazine",
+    "mod_targets": [ "ar15", "m4a1", "m16a4", "h&k416a5", "m27iar" ],
+    "magazine_adaptor": [ [ "223", [ "belt223" ] ] ],
+    "min_skills": [ [ "weapon", 4 ], [ "mechanics", 3 ] ]
+  }
+]

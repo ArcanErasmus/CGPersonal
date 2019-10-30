@@ -1,0 +1,21 @@
+[
+  {
+    "id": "barrel_big",
+    "type": "GUNMOD",
+    "name": "barrel extension",
+    "description": "A longer barrel increases the muzzle velocity of a firearm, contributing to both accuracy and damage but reduces portability and slows aiming.",
+    "weight": "426 g",
+    "volume": "1 L",
+    "price": 20000,
+    "to_hit": 2,
+    "bashing": 5,
+    "material": [ "steel" ],
+    "symbol": ":",
+    "color": "light_gray",
+    "location": "barrel",
+    "mod_targets": [ "smg", "rifle", "shotgun", "pistol" ],
+    "damage_modifier": 1,
+    "dispersion_modifier": -40,
+    "min_skills": [ [ "weapon", 4 ] ]
+  }
+]

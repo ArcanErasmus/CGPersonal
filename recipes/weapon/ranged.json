@@ -1,0 +1,27 @@
+[
+  {
+    "type": "recipe",
+    "result": "mk12_special",
+    "category": "CC_WEAPON",
+    "subcategory": "CSC_WEAPON_RANGED",
+    "skill_used": "mechanics",
+    "skills_required": [ "rifle", 5 ],
+    "difficulty": 5,
+    "time": "300 m",
+    "autolearn": true,
+    "qualities": [ { "id": "CUT", "level": 1 }, { "id": "SAW_M_FINE", "level": 1 }, { "id": "SCREW_FINE", "level": 1 } ],
+    "components": [
+        [ [ "m16a4", 1 ] ],
+        [ [ "grip", 1 ] ],
+        [ [ "m320_mod", 1 ] ],
+        [ [ "pistol_grip", 1 ] ],
+        [ [ "adjustable_stock", 1 ] ],
+        [ [ "cheek_pad", 1 ] ],
+        [ [ "waterproof_gunmod", 1 ] ],
+        [ [ "scrap", 2 ] ],
+        [ [ "plastic_chunk", 2 ] ],
+        [ [ "pipe", 1 ] ]
+    ],
+    "tools": [ [ [ "large_repairkit", 30 ], [ "small_repairkit", 90 ] ], [ [ "mold_plastic", -1 ] ] ]
+  }
+]

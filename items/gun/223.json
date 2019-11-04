@@ -1,0 +1,37 @@
+[
+  {
+    "id": "mk12_special",
+    "copy-from": "rifle_semi",
+    "looks_like": "l_dsr_223",
+    "type": "GUN",
+    "name": "Mk 12 Custom",
+    "description": "The USN Mk 12 Mod 0/1 is a light designated marksman's variant of the M16. This one has been heavily modified to meet the needs of the new face of war.",
+    "weight": "5000 g",
+    "volume": "2000 ml",
+    "price": 240000,
+    "to_hit": -2,
+    "bashing": 12,
+    "material": [ "steel", "plastic" ],
+    "symbol": "(",
+    "color": "dark_gray",
+    "ammo": "223",
+    "ranged_damage": 3,
+    "dispersion": 23,
+    "durability": 6,
+    "min_cycle_recoil": 1350,
+    "reload": 400,
+    "modes": [ [ "DEFAULT", "semi-auto", 1 ], [ "BURST", "3rd burst", 3 ] ],
+    "magazines": [ [ "223", [ "belt223" ] ] ],
+    "built_in_mods": [ "m320_mod", "grip", "pistol_grip", "adjustable_stock", "cheek_pad", "match_trigger", "waterproof_gunmod" ],
+    "valid_mod_locations": [
+      [ "accessories", 4 ],
+      [ "bore", 1 ],
+      [ "brass catcher", 1 ],
+      [ "mechanism", 4 ],
+      [ "muzzle", 1 ],
+      [ "sights", 1 ],
+      [ "rail", 2 ],
+      [ "sling", 1 ]
+    ]
+  }
+]

@@ -15,28 +15,5 @@
     "covers": [ "HEAD" ],
     "coverage": 90,
     "flags": [ "PSYSHIELD_PARTIAL", "SKINTIGHT", "TRADER_AVOID" ]
-  },
-  {
-    "id": "gloves_survivor_fingerless",
-    "type": "ARMOR",
-    "looks_like": "gloves_lsurvivor",
-    "category": "armor",
-    "name": "pair of fingerless survivor gloves",
-    "name_plural": "pairs of fingerless survivor gloves",
-    "description": "A pair of customized, Kevlar armored cloth gloves with no fingers, modified to be easy to wear while providing maximum protection under extreme conditions.",
-    "weight": "160 g",
-    "volume": "700 ml",
-    "price": 16000,
-    "to_hit": 2,
-    "material": [ "kevlar", "cotton" ],
-    "symbol": "[",
-    "color": "green",
-    "covers": [ "HANDS" ],
-    "coverage": 85,
-    "encumbrance": 8,
-    "warmth": 12,
-    "material_thickness": 3,
-    "environmental_protection": 3,
-    "flags": [ "VARSIZE", "WATERPROOF", "STURDY", "ALLOWS_NATURAL_ATTACKS" ]
   }
 ]

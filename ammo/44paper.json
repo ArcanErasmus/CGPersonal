@@ -13,7 +13,7 @@
     "color": "white",
     "count": 25,
     "ammo_type": "44paper",
-    "range": 100,
+    "range": 30,
     "damage": 27,
     "dispersion": 70,
     "recoil": 580,

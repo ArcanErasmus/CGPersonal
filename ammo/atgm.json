@@ -15,7 +15,7 @@
     "casing": "atgm_spent",
     "damage": 2400,
     "pierce": 600,
-    "range": 100,
+    "range": 60,
     "recoil": 6000,
     "effects": [ "CUSTOM_EXPLOSION", "NEVER_MISFIRES" ],
     "explode_in_fire": true,

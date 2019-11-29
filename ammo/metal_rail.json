@@ -16,7 +16,7 @@
     "color": "dark_gray",
     "count": 10,
     "ammo_type": "metal_rail",
-    "range": 100,
+    "range": 60,
     "damage": 70,
     "pierce": 25,
     "dispersion": 150,
@@ -37,6 +37,6 @@
     "color": "light_gray",
     "dispersion": 0,
     "effects": [ "NEVER_MISFIRES", "NON-FOULING" ],
-    "relative": { "range": 10, "damage": -5, "pierce": 15 }
+    "relative": { "damage": -5, "pierce": 15 }
   }
 ]

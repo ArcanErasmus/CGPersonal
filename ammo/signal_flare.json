@@ -15,7 +15,7 @@
     "stack_size": 20,
     "ammo_type": "signal_flare",
     "casing": "shot_hull",
-    "range": 100,
+    "range": 60,
     "damage": 16,
     "dispersion": 200,
     "recoil": 100,

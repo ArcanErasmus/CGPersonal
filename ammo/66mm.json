@@ -14,7 +14,7 @@
     "ammo_type": "m235",
     "damage": 60,
     "pierce": 10,
-    "range": 100,
+    "range": 60,
     "dispersion": 150,
     "recoil": 150,
     "count": 4,
